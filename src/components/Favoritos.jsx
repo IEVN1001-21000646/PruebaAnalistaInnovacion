@@ -57,7 +57,7 @@ export default function FavoritesList({ update }) {
           onClick={handleSearch}
           style={{
             padding: "0.5rem 1rem",
-            backgroundColor: "#cc0000", // rojo tipo YouTube
+            backgroundColor: "#cc0000",
             color: "#fff",
             border: "none",
             borderRadius: "4px",
