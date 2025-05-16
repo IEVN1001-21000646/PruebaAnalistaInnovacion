@@ -74,7 +74,7 @@ export default function Registro() {
           
           <div className="captcha">
             <ReCAPTCHA
-              sitekey="6LcLWT0rAAAAAK2LLuRaA89orwmjYZ7n3CoD-d3K"
+              sitekey="6Lctjz0rAAAAADWya2n9FHZrQZdm1KANWjI2nJQk"
               onChange={(value) => setCaptchaValue(value)}
             />
           </div>
